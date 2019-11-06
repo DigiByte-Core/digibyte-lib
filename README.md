@@ -23,19 +23,19 @@ bower install digibyte
 
 ## Documentation
 
-The complete docs are hosted here: [digibyte.js documentation](https://docs.digibyte.io/overview).
+The complete docs are hosted here: [digibyte.js documentation](https://github.com/DigiByte-Core/digibyte-lib/blob/master/docs/index.md).
 
 ## Examples
 
-* [Generate a Random address](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#generate-a-random-address)
-* [Generate a address from a SHA256 hash](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#generate-a-address-from-a-sha256-hash)
-* [Import an address via WIF](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#import-an-address-via-wif)
-* [Create a Transaction](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#create-a-transaction)
-* [Sign a DigiByte message](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#sign-a-bitcoin-message)
-* [Verify a DigiByte message](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#verify-a-bitcoin-message)
-* [Create an OP RETURN transaction](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#create-an-op-return-transaction)
-* [Create a 2-of-3 multisig P2SH address](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#create-a-2-of-3-multisig-p2sh-address)
-* [Spend from a 2-of-2 multisig P2SH address](https://github.com/digibyte/digibyte-lib/blob/master/docs/examples.md#spend-from-a-2-of-2-multisig-p2sh-address)
+* [Generate a Random address](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#generate-a-random-address)
+* [Generate a address from a SHA256 hash](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#generate-a-address-from-a-sha256-hash)
+* [Import an address via WIF](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#import-an-address-via-wif)
+* [Create a Transaction](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#create-a-transaction)
+* [Sign a DigiByte message](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#sign-a-bitcoin-message)
+* [Verify a DigiByte message](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#verify-a-bitcoin-message)
+* [Create an OP RETURN transaction](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#create-an-op-return-transaction)
+* [Create a 2-of-3 multisig P2SH address](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#create-a-2-of-3-multisig-p2sh-address)
+* [Spend from a 2-of-2 multisig P2SH address](https://github.com/Digibyte-Core/digibyte-lib/blob/master/docs/examples.md#spend-from-a-2-of-2-multisig-p2sh-address)
 
 
 ## Security
@@ -46,7 +46,7 @@ If you find a security issue, please email dev@digibyte.co.
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/digibyte/digibyte-lib/blob/master/CONTRIBUTING.md) file.
+Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/Digibyte-Core/digibyte-lib/blob/master/CONTRIBUTING.md) file.
 
 ## Building the Browser Bundle
 
@@ -62,7 +62,7 @@ This will generate files named `digibyte.js` and `digibyte.min.js`.
 ## Development & Tests
 
 ```sh
-git clone https://github.com/digibyte/digibyte-lib.git
+git clone https://github.com/Digibyte-Core/digibyte-lib.git
 cd digibyte-lib
 npm install
 ```
@@ -78,6 +78,6 @@ or create a test coverage report (you can open `coverage/lcov-report/index.html`
 
 ## License
 
-Code released under [the MIT license](https://github.com/digibyte/digibyte-lib/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/Digibyte-Core/digibyte-lib/blob/master/LICENSE).
 
 Copyright 2017 Digibyte, Co.
